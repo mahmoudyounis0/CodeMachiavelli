@@ -1,36 +1,17 @@
-# [Technology/Framework Name]
+# [Docker]
 
 ## Recommended Learning Resources
 
-### Courses
-- [Course Name](URL) - Brief description of why it's valuable
-- [Course Name](URL) - Brief description of why it's valuable
-
-### Tutorials
-- [Tutorial Name](URL) - Brief description of why it's valuable
-- [Tutorial Name](URL) - Brief description of why it's valuable
-
-### Books
-- [Book Title](URL or ISBN) - Brief description of why it's valuable
-
 ### Documentation
-- [Official Docs](URL) - Any specific sections that are particularly helpful
+
+these two documentations are the best to start with,
+i hope you read my summary pdf first to get a better understanding
+
+- [Docker for beginners](https://docker-curriculum.com/)
+- [introduction to Docker](https://courses.mooc.fi/org/uh-cs/courses/devops-with-docker)
 
 ### YouTube Channels/Videos
-- [Channel/Video Name](URL) - Brief description of why it's valuable
 
-### GitHub Repositories
-- [Repo Name](URL) - Brief description of why it's valuable
+the following playlist is the best practical learning resource i have ever found for docker
 
-## Personal Notes
-- Key concepts I found challenging
-- Important insights I gained
-- Practical tips from experience
-
-## Project Ideas
-- Beginner-friendly project ideas using this technology
-- Intermediate project ideas
-- Advanced project ideas
-
----
-*Last updated: [Date]*
+- [Docker Practical Course](https://www.youtube.com/playlist?list=PLzNfs-3kBUJnY7Cy1XovLaAkgfjim05RR)
