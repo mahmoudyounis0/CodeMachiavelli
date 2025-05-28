@@ -3,7 +3,7 @@
 ## Recommended Learning Resources
 
 ### Courses
-- [Course Name](URL) - Brief description of why it's valuable
+- [Django Rest Framework](https://www.youtube.com/playlist?list=PLXHLAo6ZUDp0zE8FnnzG_QF9QyBSG-bw8) - DurgaSoft
 - [Course Name](URL) - Brief description of why it's valuable
 
 ### Tutorials

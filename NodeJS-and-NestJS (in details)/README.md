@@ -3,7 +3,7 @@
 ## Recommended Learning Resources
 
 ### Courses
-- [Course Name](URL) - Brief description of why it's valuable
+- [MongoDB by Durga Sir](https://www.youtube.com/playlist?list=PLXHLAo6ZUDp2wtoN5HhFUwxUJcilJneIQ)
 - [Course Name](URL) - Brief description of why it's valuable
 
 ### Tutorials

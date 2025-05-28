@@ -3,7 +3,7 @@
 ## Recommended Learning Resources
 
 ### Courses
-- [Course Name](URL) - Brief description of why it's valuable
+- [Durga Sir](https://www.youtube.com/playlist?list=PLXHLAo6ZUDp0KZOqDphHiJz4wDg8viChS) - you will not need anything else after this cours
 - [Course Name](URL) - Brief description of why it's valuable
 
 ### Tutorials

@@ -3,12 +3,12 @@
 ## Recommended Learning Resources
 
 ### Courses
-- [Course Name](URL) - Brief description of why it's valuable
+- [Nerash IT Academy ](https://www.youtube.com/playlist?list=PLXHLAo6ZUDp0qBkqxGNxKgxpztJdZ7Okw) - Full Complete course
 - [Course Name](URL) - Brief description of why it's valuable
 
 ### Tutorials
-- [Tutorial Name](URL) - Brief description of why it's valuable
-- [Tutorial Name](URL) - Brief description of why it's valuable
+- [JoshuaMorony](https://www.youtube.com/@JoshuaMorony/playlists) - Advanced level
+- [DecodedFrontend](https://www.youtube.com/@DecodedFrontend/featured) - Advanced level
 
 ### Books
 - [Book Title](URL or ISBN) - Brief description of why it's valuable

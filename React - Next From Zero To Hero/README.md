@@ -7,9 +7,8 @@
 - [Course Name](URL) - Brief description of why it's valuable
 
 ### Tutorials
-- [Tutorial Name](URL) - Brief description of why it's valuable
-- [Tutorial Name](URL) - Brief description of why it's valuable
-
+- [ITI Workshop](https://www.youtube.com/playlist?list=PLLWuK602vNiXfozP5ei2k0BpGNcU3_7_H)
+- [Tarmeez Academy (Eng.Yarop)](https://www.youtube.com/playlist?list=PLYyqC4bNbCIdSZ-JayMLl4WO2Cr995vyS) - the best tutorial about react
 ### Books
 - [Book Title](URL or ISBN) - Brief description of why it's valuable
 
