@@ -3,8 +3,9 @@
 ## Recommended Learning Resources
 
 ### Courses
+- [Git and GitHub Tutorial For Beginners | Full Course [2021]](https://www.youtube.com/watch?v=3fUbBnN_H2c)
 - [Durga Sir](https://www.youtube.com/playlist?list=PLXHLAo6ZUDp0KZOqDphHiJz4wDg8viChS) - you will not need anything else after this cours
-- [Course Name](URL) - Brief description of why it's valuable
+- [Git & Github Training](https://www.youtube.com/watch?v=ddDyFQT3bzM&list=PLVBwYECZ22gn3b6zK5kTyqfSDuAPwEB6V&index=1)
 
 ### Tutorials
 - [Tutorial Name](URL) - Brief description of why it's valuable
