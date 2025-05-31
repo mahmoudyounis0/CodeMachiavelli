@@ -58,6 +58,6 @@ You are free to read and share, but please **do not republish or sell** without 
 
 ---
 
-> _“Programming is thinking, not typing.” – Mohammed Amir_
+> _“I hear and I forget. I see and I remember. I do and I understand.” – Confucius_ 
 
 
