@@ -8,7 +8,7 @@
 
 LearnDocker.online is the most comprehensive online Docker training program on the planet
 
-- [Learn Docker by playing](https://kodekloud.com/)
+- [Learn Docker by playing](https://kodekloud.com/free-labs/docker)
 - [Learn Docker by practice labs](https://labex.io/skilltrees/docker)
 
 ### Documentation
