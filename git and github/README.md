@@ -8,8 +8,7 @@
 - [Git & Github Training](https://www.youtube.com/watch?v=ddDyFQT3bzM&list=PLVBwYECZ22gn3b6zK5kTyqfSDuAPwEB6V&index=1)
 
 ### Tutorials
-- [Tutorial Name](URL) - Brief description of why it's valuable
-- [Tutorial Name](URL) - Brief description of why it's valuable
+- [Practice git by hand on game](https://kodekloud.com/pages/free-labs/git) - Brief description of why it's valuabl
 
 ### Books
 - [Book Title](URL or ISBN) - Brief description of why it's valuable
