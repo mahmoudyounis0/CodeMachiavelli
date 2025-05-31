@@ -14,6 +14,8 @@
 
 ### Tutorials
 - [techonthenet the best SQL Tutorial](https://www.techonthenet.com/sql/index.php) - (practice sql Start with SQL then PL/SQL)
+- [SQL Island (learn while playing)](https://sql-island.informatik.uni-kl.de/)
+- [SQL ZOO](https://sqlzoo.net/wiki/SQL_Tutorial)
 
 ### Books
 - [Book Title](URL or ISBN) - Brief description of why it's valuable
