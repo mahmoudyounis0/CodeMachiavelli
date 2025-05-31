@@ -60,5 +60,5 @@ You are free to read and share, but please **do not republish or sell** without 
 
 > _“I hear and I forget. I see and I remember. I do and I understand.” – Confucius_ 
 
-- ⚡ Fun fact **I enjoy simplifying complex software concepts for others. 😁**
+⚡ Fun fact **I enjoy simplifying complex software concepts for others. 😁**
 
