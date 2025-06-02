@@ -1,4 +1,4 @@
-# [Technology/Framework Name]
+# [Database (SQL - NoSQL)]
 
 ## Recommended Learning Resources
 
@@ -28,16 +28,3 @@
 
 ### GitHub Repositories
 - [Repo Name](URL) - Brief description of why it's valuable
-
-## Personal Notes
-- Key concepts I found challenging
-- Important insights I gained
-- Practical tips from experience
-
-## Project Ideas
-- Beginner-friendly project ideas using this technology
-- Intermediate project ideas
-- Advanced project ideas
-
----
-*Last updated: [Date]*

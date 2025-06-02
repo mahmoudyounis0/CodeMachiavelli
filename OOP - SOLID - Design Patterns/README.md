@@ -1,4 +1,4 @@
-# [Technology/Framework Name]
+# [OOP - SOLID - Design Patterns]
 
 ## Recommended Learning Resources
 

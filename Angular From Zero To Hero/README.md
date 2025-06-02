@@ -1,4 +1,4 @@
-# [Technology/Framework Name]
+# [Angular From Zero To Hero]
 
 ## Recommended Learning Resources
 
