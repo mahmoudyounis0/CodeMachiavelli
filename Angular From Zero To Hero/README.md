@@ -3,6 +3,7 @@
 ## Recommended Learning Resources
 
 ### Courses
+- [Angular ITI](https://drive.google.com/drive/folders/19DU_0UiuZm1-2kSnQIkncmZxCUePCzKP)
 - [Nerash IT Academy ](https://www.youtube.com/playlist?list=PLXHLAo6ZUDp0qBkqxGNxKgxpztJdZ7Okw) - Full Complete course
 - [Course Name](URL) - Brief description of why it's valuable
 
