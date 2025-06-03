@@ -7,6 +7,8 @@
 - [Build with code: part1](https://www.youtube.com/playlist?list=PLWrQZnG8l0E5YLhFP7P1-2HN1R-rmC4P0)
 - [Build with code: part2](https://www.youtube.com/playlist?list=PLWrQZnG8l0E5eDDc16OYDJDIRCKcoe0xx)
 - [Build with code: part3](https://www.youtube.com/playlist?list=PLWrQZnG8l0E7qHEU1C5ojeAMvy2Pb_pw4)
+- [Tarmeez Academy (Eng.Yarop) part1](https://www.youtube.com/playlist?list=PLYyqC4bNbCIeLEjcSPO61bsGPKEvYceb0)
+- [Tarmeez Academy (Eng.Yarop) part2: Advanced](https://www.youtube.com/playlist?list=PLYyqC4bNbCIdvviLNbvYKfvHqszFPnUkj)
 
 ### Tutorials
 - [javascript under the hood](https://www.youtube.com/playlist?list=PLxADqpeFWjH2h-CxhyXN2OZEVDkXeuckn)
