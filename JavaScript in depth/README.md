@@ -3,34 +3,16 @@
 ## Recommended Learning Resources
 
 ### Courses
-- [Course Name](URL) - Brief description of why it's valuable
-- [Course Name](URL) - Brief description of why it's valuable
+- [Will Sentance (paid course)](https://frontendmasters.com/teachers/will-sentance/)
+- [Build with code: part1](https://www.youtube.com/playlist?list=PLWrQZnG8l0E5YLhFP7P1-2HN1R-rmC4P0)
+- [Build with code: part2](https://www.youtube.com/playlist?list=PLWrQZnG8l0E5eDDc16OYDJDIRCKcoe0xx)
+- [Build with code: part3](https://www.youtube.com/playlist?list=PLWrQZnG8l0E7qHEU1C5ojeAMvy2Pb_pw4)
 
 ### Tutorials
-- [Tutorial Name](URL) - Brief description of why it's valuable
-- [Tutorial Name](URL) - Brief description of why it's valuable
+- [javascript under the hood](https://www.youtube.com/playlist?list=PLxADqpeFWjH2h-CxhyXN2OZEVDkXeuckn)
+- [how js oop work behind the scene](https://www.youtube.com/watch?v=-N9tBvlO9Bo)
+- [javascript in depth](https://www.youtube.com/playlist?list=PLovN13bqAx7D_MFjL0PHnCkYAHMSO8-kU)
+- [DOM in depth](https://www.youtube.com/playlist?list=PLovN13bqAx7ALeYQ-h4lhxa8PymM2b79L)
 
 ### Books
-- [Book Title](URL or ISBN) - Brief description of why it's valuable
-
-### Documentation
-- [Official Docs](URL) - Any specific sections that are particularly helpful
-
-### YouTube Channels/Videos
-- [Channel/Video Name](URL) - Brief description of why it's valuable
-
-### GitHub Repositories
-- [Repo Name](URL) - Brief description of why it's valuable
-
-## Personal Notes
-- Key concepts I found challenging
-- Important insights I gained
-- Practical tips from experience
-
-## Project Ideas
-- Beginner-friendly project ideas using this technology
-- Intermediate project ideas
-- Advanced project ideas
-
----
-*Last updated: [Date]*
+- [Eloquent JavaScript](https://eloquentjavascript.net/Eloquent_JavaScript_small.pdf)

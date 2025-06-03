@@ -7,8 +7,8 @@
 - [HTML & CSS & JS & Intro to React by Nerash IT Academy](https://www.youtube.com/playlist?list=PLyptEVvf2NwOxHGszOvdrvXdBcI5aY_wr) - 100 days
 
 ### Tutorials
-- [Tutorial Name](URL) - Brief description of why it's valuable
-- [Tutorial Name](URL) - Brief description of why it's valuable
+- [Frontend Architecture (Advanced level)](https://www.youtube.com/@d.zhiganov)
+- [DOM in depth](https://www.youtube.com/playlist?list=PLovN13bqAx7ALeYQ-h4lhxa8PymM2b79L)
 
 ### Books
 - [Book Title](URL or ISBN) - Brief description of why it's valuable

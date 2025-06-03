@@ -7,7 +7,7 @@
 - [Course Name](URL) - Brief description of why it's valuable
 
 ### Tutorials
-- [Tutorial Name](URL) - Brief description of why it's valuable
+- [Frontend Architecture (Advanced level)](https://www.youtube.com/@d.zhiganov)
 - [Tutorial Name](URL) - Brief description of why it's valuable
 
 ### Books

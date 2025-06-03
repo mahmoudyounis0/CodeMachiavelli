@@ -7,7 +7,7 @@
 - [Course Name](URL) - Brief description of why it's valuable
 
 ### Tutorials
-- [Tutorial Name](URL) - Brief description of why it's valuable
+- [REST APIs in depth](https://www.youtube.com/playlist?list=PLovN13bqAx7DOGGjHbVGH9XkjtQTykREl)
 - [Tutorial Name](URL) - Brief description of why it's valuable
 
 ### Books
