@@ -1,36 +1,12 @@
-# [Technology/Framework Name]
+# [PHP - Laravel]
 
 ## Recommended Learning Resources
 
 ### Courses
-- [Course Name](URL) - Brief description of why it's valuable
-- [Course Name](URL) - Brief description of why it's valuable
-
-### Tutorials
-- [Tutorial Name](URL) - Brief description of why it's valuable
-- [Tutorial Name](URL) - Brief description of why it's valuable
-
-### Books
-- [Book Title](URL or ISBN) - Brief description of why it's valuable
-
-### Documentation
-- [Official Docs](URL) - Any specific sections that are particularly helpful
-
-### YouTube Channels/Videos
-- [Channel/Video Name](URL) - Brief description of why it's valuable
-
-### GitHub Repositories
-- [Repo Name](URL) - Brief description of why it's valuable
-
-## Personal Notes
-- Key concepts I found challenging
-- Important insights I gained
-- Practical tips from experience
-
-## Project Ideas
-- Beginner-friendly project ideas using this technology
-- Intermediate project ideas
-- Advanced project ideas
-
----
-*Last updated: [Date]*
+- [PHP crash course](https://www.youtube.com/watch?v=zZ6vybT1HQs)
+- [Laravel ITI](https://drive.google.com/drive/folders/1Oe6fEbhPYEeSz7RsmS126OW9EHUO3cze?direction=a)
+- [Laravel crash course by tarmeez academy](https://www.youtube.com/watch?v=v6Vtn84gvzU&t=12493s)
+- [Laravel crash course by codezilla academy](https://www.youtube.com/watch?v=Q4z6U23cTVc)
+- [MoraSoft (3 complete projects)](https://www.youtube.com/@MoraSoft/playlists)
+- [php Anonymous](https://www.youtube.com/@PhpAnonymous/playlists)
+- [php with mysql](https://www.youtube.com/@firefoxegyweb/playlists)
