@@ -2,6 +2,12 @@
 
 ## Recommended Learning Resources
 
+**REMEMBER**: 
+1. In software engineering, there is no one-size-fits-all solution. The most important thing is to understand the problem and the requirements, and then choose the best solution for the problem.
+2. Everything in software industry is surrounding arround the data and how to manipulate it.
+3. Data is the backbone of any software. 
+4. Any software is nothing but a database with a user interface.
+
 ### Courses
 - [MongoDB by Durga Sir](https://www.youtube.com/playlist?list=PLXHLAo6ZUDp2wtoN5HhFUwxUJcilJneIQ)
 - [Complete MongoDB (Version 8) Course 2025: Zero to Hero](https://www.youtube.com/playlist?list=PL1BztTYDF-QPwd9Qg-nxQk1UYtorhzXLc)
