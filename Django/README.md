@@ -1,36 +1,11 @@
-# [Technology/Framework Name]
+# [Django]
 
 ## Recommended Learning Resources
 
 ### Courses
+- [Django by durga sir (old but gold)](https://mega.nz/folder/3HIh1ICQ#7SWdtlAvdfvoFEPb_n6RDA) - DurgaSoft
+- [Django by Dennis Ivy (the genius of django)](https://www.udemy.com/course/python-django-2021-complete-course/)
+- [Django Bootcamp - October 2020](https://www.youtube.com/playlist?list=PLEsfXFp6DpzT-1RVQVsL7C2XGMeQzfqAL)
 - [Django Rest Framework](https://www.youtube.com/playlist?list=PLXHLAo6ZUDp0zE8FnnzG_QF9QyBSG-bw8) - DurgaSoft
-- [Course Name](URL) - Brief description of why it's valuable
-
-### Tutorials
-- [Tutorial Name](URL) - Brief description of why it's valuable
-- [Tutorial Name](URL) - Brief description of why it's valuable
-
-### Books
-- [Book Title](URL or ISBN) - Brief description of why it's valuable
-
-### Documentation
-- [Official Docs](URL) - Any specific sections that are particularly helpful
-
-### YouTube Channels/Videos
-- [Channel/Video Name](URL) - Brief description of why it's valuable
-
-### GitHub Repositories
-- [Repo Name](URL) - Brief description of why it's valuable
-
-## Personal Notes
-- Key concepts I found challenging
-- Important insights I gained
-- Practical tips from experience
-
-## Project Ideas
-- Beginner-friendly project ideas using this technology
-- Intermediate project ideas
-- Advanced project ideas
-
----
-*Last updated: [Date]*
+- [Build a REST API with native Python without Any Framework](https://www.youtube.com/playlist?list=PLd3UqWTnYXOkY3Ajiydn_Ok9etnwVv8Hx)
+- [Django REST Framework Oversimplified](https://www.youtube.com/watch?v=cJveiktaOSQ)
