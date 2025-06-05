@@ -9,6 +9,7 @@
 - [Build with code: part3](https://www.youtube.com/playlist?list=PLWrQZnG8l0E7qHEU1C5ojeAMvy2Pb_pw4)
 - [Tarmeez Academy (Eng.Yarop) part1](https://www.youtube.com/playlist?list=PLYyqC4bNbCIeLEjcSPO61bsGPKEvYceb0)
 - [Tarmeez Academy (Eng.Yarop) part2: Advanced](https://www.youtube.com/playlist?list=PLYyqC4bNbCIdvviLNbvYKfvHqszFPnUkj)
+- [Modern JavaScript Course: From Zero to Hero](https://www.youtube.com/playlist?list=PL1BztTYDF-QPrMlSSMvYsjpKCUf36w7VI)
 
 ### Tutorials
 - [javascript under the hood](https://www.youtube.com/playlist?list=PLxADqpeFWjH2h-CxhyXN2OZEVDkXeuckn)

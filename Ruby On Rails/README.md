@@ -1,36 +1,18 @@
-# [Technology/Framework Name]
+# [Ruby on Rails]
 
-## Recommended Learning Resources
+**NOTE**: 
+[Dave Jones](https://www.youtube.com/@lockersoft/playlists) His videos are old but they are the best to learn ruby on rails and i guarantee you will love it.
 
 ### Courses
-- [Course Name](URL) - Brief description of why it's valuable
-- [Course Name](URL) - Brief description of why it's valuable
 
-### Tutorials
-- [Tutorial Name](URL) - Brief description of why it's valuable
-- [Tutorial Name](URL) - Brief description of why it's valuable
+1. **Ruby**
+- part1: [(Dave Jones) Introduction to Ruby Programming part 1](https://www.youtube.com/playlist?list=PLSXDqiI4sC5NinJXEoYH6FYQ7vtIO8IPF)
+- part2: [(Dave Jones) Introduction to Ruby Programming part 2](https://www.youtube.com/playlist?list=PLSXDqiI4sC5O3fI2XzlXCfKiKx9ELnH4Q)
 
-### Books
-- [Book Title](URL or ISBN) - Brief description of why it's valuable
-
-### Documentation
-- [Official Docs](URL) - Any specific sections that are particularly helpful
-
-### YouTube Channels/Videos
-- [Channel/Video Name](URL) - Brief description of why it's valuable
-
-### GitHub Repositories
-- [Repo Name](URL) - Brief description of why it's valuable
-
-## Personal Notes
-- Key concepts I found challenging
-- Important insights I gained
-- Practical tips from experience
-
-## Project Ideas
-- Beginner-friendly project ideas using this technology
-- Intermediate project ideas
-- Advanced project ideas
-
----
-*Last updated: [Date]*
+2. **Ruby on Rails**
+- [Documentary: The Story of Ruby on Rails](https://www.youtube.com/watch?v=HDKUEXBF3B4)
+- [(Dave Jones) Ruby on Rails 4.0 Lectures](https://www.youtube.com/playlist?list=PLSXDqiI4sC5PsASjJy7dBncALnhjud2fx)
+- [Learn Ruby on Rails - Crash Course](https://www.youtube.com/watch?v=fmyvWz5TUWg)
+- [Ruby on Rails بالعربي in Arabic](https://www.youtube.com/playlist?list=PLMYF6NkLrdN_AvYsR6G6wTQM1zHlY77f2)
+- [Intro Ruby on Rails 7 For Beginners](https://www.youtube.com/playlist?list=PL3mtAHT_eRezB9fnoIcKS4vYFjm23vddb)
+- [The Odin Project - Ruby on Rails](https://www.youtube.com/playlist?list=PL3vpzVxKa3PgYNRQgmeUKtIeokOBqB52E)
