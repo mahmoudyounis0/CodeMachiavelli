@@ -3,34 +3,9 @@
 ## Recommended Learning Resources
 
 ### Courses
-- [Course Name](URL) - Brief description of why it's valuable
-- [Course Name](URL) - Brief description of why it's valuable
+- [Vue Basics ITI](https://drive.google.com/drive/folders/1RByh4pPDZR2S1Wjkb2j3Kkbjp8L1bIHf)
+- [VueJS Course in Arabic](https://www.youtube.com/playlist?list=PLsGw2CukNXpbtx_EbWJ8HlBr9cbWf1YJE)
+- [Vue.js Tutorial: Beginner to Front-End Developer](https://www.youtube.com/watch?v=1GNsWa_EZdw)
 
 ### Tutorials
 - [Frontend Architecture (Advanced level)](https://www.youtube.com/@d.zhiganov)
-- [Tutorial Name](URL) - Brief description of why it's valuable
-
-### Books
-- [Book Title](URL or ISBN) - Brief description of why it's valuable
-
-### Documentation
-- [Official Docs](URL) - Any specific sections that are particularly helpful
-
-### YouTube Channels/Videos
-- [Channel/Video Name](URL) - Brief description of why it's valuable
-
-### GitHub Repositories
-- [Repo Name](URL) - Brief description of why it's valuable
-
-## Personal Notes
-- Key concepts I found challenging
-- Important insights I gained
-- Practical tips from experience
-
-## Project Ideas
-- Beginner-friendly project ideas using this technology
-- Intermediate project ideas
-- Advanced project ideas
-
----
-*Last updated: [Date]*

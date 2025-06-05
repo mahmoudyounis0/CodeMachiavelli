@@ -3,6 +3,7 @@
 ## Recommended Learning Resources
 
 ### Courses
+- [Django basics ITI](https://drive.google.com/drive/folders/16vBLOjrPoARn7aHHxu2vRPmjP7M4mHyx)
 - [Django by durga sir (old but gold)](https://mega.nz/folder/3HIh1ICQ#7SWdtlAvdfvoFEPb_n6RDA) - DurgaSoft
 - [Django by Dennis Ivy (the genius of django)](https://www.udemy.com/course/python-django-2021-complete-course/)
 - [Django Bootcamp - October 2020](https://www.youtube.com/playlist?list=PLEsfXFp6DpzT-1RVQVsL7C2XGMeQzfqAL)
