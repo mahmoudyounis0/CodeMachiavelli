@@ -17,6 +17,7 @@
 - [how js oop work behind the scene](https://www.youtube.com/watch?v=-N9tBvlO9Bo)
 - [javascript in depth](https://www.youtube.com/playlist?list=PLovN13bqAx7D_MFjL0PHnCkYAHMSO8-kU)
 - [DOM in depth](https://www.youtube.com/playlist?list=PLovN13bqAx7ALeYQ-h4lhxa8PymM2b79L)
+- [62 JavaScript Interview Questions](https://www.interviewbit.com/javascript-interview-questions/amp/)
 
 ### Books
 - [Eloquent JavaScript](https://eloquentjavascript.net/Eloquent_JavaScript_small.pdf)
