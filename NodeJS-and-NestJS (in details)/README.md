@@ -11,7 +11,11 @@
     - day 1 to day 48: HTML & CSS & Bootstrap
     - day 49 to day 83: JS & JQuery
     - day 84 to day 85: SASS
-    - day 86 to day 99: MongoDB & NodeJS & ExpressJS
+    - day 86 to day 88: MongoDB
+    - day 89 to day 94: NodeJS & ExpressJS + project
+    - day 95 to day 97: ReactJS
+    - day 98: Unit Testing
+    - day 99: Deployment
 
 ### Tutorials
 
