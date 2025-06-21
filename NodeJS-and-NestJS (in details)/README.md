@@ -7,6 +7,11 @@
 - [Complete MongoDB (Version 8) Course 2025: Zero to Hero](https://www.youtube.com/playlist?list=PL1BztTYDF-QPwd9Qg-nxQk1UYtorhzXLc)
 - [A Complete NODE JS Course Step by Step](https://www.youtube.com/playlist?list=PL1BztTYDF-QPdTvgsjf8HOwO4ZVl_LhxS)
 - [Comprehensive Nest JS Course: From Beginner to Expert](https://www.youtube.com/playlist?list=PL1BztTYDF-QPfrzXwoC_6OSLs818uAqN2)
+- [HTML & CSS & JS & MongoDB & NodeJS & ExpressJS by Nerash IT Academy](https://www.youtube.com/playlist?list=PLyptEVvf2NwOxHGszOvdrvXdBcI5aY_wr) - 100 days
+    - day 1 to day 48: HTML & CSS & Bootstrap
+    - day 49 to day 83: JS & JQuery
+    - day 84 to day 85: SASS
+    - day 86 to day 99: MongoDB & NodeJS & ExpressJS
 
 ### Tutorials
 
