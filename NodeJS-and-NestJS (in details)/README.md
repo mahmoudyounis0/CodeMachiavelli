@@ -1,4 +1,4 @@
-# [Technology/Framework Name]
+# [NodeJS and NestJS (in details)]
 
 ## Recommended Learning Resources
 

@@ -1,4 +1,4 @@
-# [Technology/Framework Name]
+# [Vue.js]
 
 ## Recommended Learning Resources
 

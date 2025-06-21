@@ -1,4 +1,4 @@
-# [Technology/Framework Name]
+# [JavaScript in depth]
 
 ## Recommended Learning Resources
 

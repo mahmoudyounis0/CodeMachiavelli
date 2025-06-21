@@ -1,4 +1,4 @@
-# [Technology/Framework Name]
+# [React From Zero To Hero]
 
 ## Recommended Learning Resources
 
