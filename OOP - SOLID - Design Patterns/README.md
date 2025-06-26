@@ -24,3 +24,6 @@
 - [OOP ITI](https://www.youtube.com/playlist?list=PLPJ4DGyaHe1gZSEyHp6JkqfZ-kxblSKSf)
 - [Why OOP is EVIL?!!](https://www.youtube.com/watch?v=sVgIgSJkruI)
 - [Object-Oriented Programming, lecture by Daniel Ingalls](https://www.youtube.com/watch?v=Ao9W93OxQ7U&list=LL&index=2)
+
+### Websites
+- [Refactoring Guru](https://refactoring.guru/)
