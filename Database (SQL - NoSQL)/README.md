@@ -9,11 +9,13 @@
 4. Any software is nothing but a database with a user interface.
 
 ### Courses
+- [Learn SQL by Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst/courses)
 - [MongoDB by Durga Sir](https://www.youtube.com/playlist?list=PLXHLAo6ZUDp2wtoN5HhFUwxUJcilJneIQ)
 - [intro to Oracle DB](https://www.youtube.com/playlist?list=PLXHLAo6ZUDp2ILnJr0YNblRcD8Zmt_H0i)
 - [Complete MongoDB (Version 8) Course 2025: Zero to Hero](https://www.youtube.com/playlist?list=PL1BztTYDF-QPwd9Qg-nxQk1UYtorhzXLc)
 - [SQL for Data Analysis | شاهد كيف أصبح الفيل والدرفيل أصدقاء](https://www.youtube.com/watch?v=kb-_GbpH3sQ)
 - [techTFQ All What You need to know about SQL](https://www.youtube.com/@techTFQ/playlists)
+- [Quick SQL short videos Hands on Practice](https://www.youtube.com/@sqlchannel/playlists)
 - Amr Elhelw:
 - 1. [Relational Database Internals](https://www.youtube.com/playlist?list=PLE8kQVoC67PzGwMMsSk3C8MvfAqcYjusF)
 - 2. [NoSQL Databases](https://www.youtube.com/playlist?list=PLE8kQVoC67PwDlBRwm2QrKk5Go7p_zHPL)
@@ -24,3 +26,6 @@
 - [techonthenet the best SQL Tutorial](https://www.techonthenet.com/sql/index.php) - (practice sql Start with SQL then PL/SQL)
 - [SQL Island (learn while playing)](https://sql-island.informatik.uni-kl.de/)
 - [SQL ZOO](https://sqlzoo.net/wiki/SQL_Tutorial)
+- [Mode SQL Tutorial](https://mode.com/sql-tutorial)
+- [DataLemur SQL Tutorial](https://datalemur.com/sql-tutorial)
+- [SQL Bolt](https://sqlbolt.com/lesson/introduction)
