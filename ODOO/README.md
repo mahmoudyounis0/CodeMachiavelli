@@ -33,3 +33,5 @@
 - [Session 10 part1](https://drive.google.com/file/d/1bVtALBylb6D79CvQ-Few6RlvIITShtQX/view?usp=sharing)
 - [Session 10 part2](https://drive.google.com/file/d/1JSKyuilOEcAYcqLfEwoXc8wBeB-CzTfx/view?usp=sharing)
 - [Session 11](https://drive.google.com/file/d/1KeYb1HmvCZK8EvVWFxPNU0pdCn424Wn4/view?usp=sharing)
+- [Session 12](https://drive.google.com/file/d/1koKFf5JAednfHyidO7_8JO5-mD-flOTA/view)
+- [Session 13](https://drive.google.com/file/d/19WYSGF-CgWCooQfez9_aqirvdMJp9vfl/view)
