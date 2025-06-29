@@ -10,6 +10,8 @@
 - [Software Design Patterns](https://www.youtube.com/playlist?list=PLrwRNJX9gLs3oQyBoXtYimY7M5aSF0_oC)
 - [Design Patterns بالعربى](https://www.youtube.com/playlist?list=PLd-dOEgzBpGnt3GuEszo_piQq52XSqAmj)
 - [Eng. Ahmed Mabrouk Summary](https://www.linkedin.com/posts/ahmed-mabrouk-9100b3235_design-pattern-activity-7296964171483508736-kEGX?utm_source=share&utm_medium=member_desktop&rcm=ACoAADDD5IQBJAbESK6DNV4DLSAHOhljB-dLbsk)
+- [Eng. Anees book (based on "Dive Into Design Patterns" as a reference)](https://2nees.com/files/Design-Patterns-2nees.pdf)
+- [Eng. Anees System Design](https://2nees.com/courses-and-articles/system-design-from-one-to-million-user)
 
 2. SOLID
 - [SOLID Principles by uncle bob](https://www.youtube.com/watch?v=zHiWqnTWsn4)
