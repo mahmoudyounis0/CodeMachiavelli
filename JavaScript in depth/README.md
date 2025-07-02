@@ -18,6 +18,12 @@
 - [javascript in depth](https://www.youtube.com/playlist?list=PLovN13bqAx7D_MFjL0PHnCkYAHMSO8-kU)
 - [DOM in depth](https://www.youtube.com/playlist?list=PLovN13bqAx7ALeYQ-h4lhxa8PymM2b79L)
 - [62 JavaScript Interview Questions](https://www.interviewbit.com/javascript-interview-questions/amp/)
+- [SPA with vanilla js](https://www.youtube.com/playlist?list=PLtxOBbrOOPH6Os1EJifSE59Bd5WbL15pn)
 
 ### Books
 - [Eloquent JavaScript](https://eloquentjavascript.net/Eloquent_JavaScript_small.pdf)
+
+### Useful Links
+[see how your js code is executed behind the scene](https://vault-developer.github.io/event-loop-explorer/)
+[JavaScript Visualizer](https://www.jsv9000.app/)
+[Beautify JavaScript](https://beautifier.io/)
